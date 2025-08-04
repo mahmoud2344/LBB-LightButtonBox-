@@ -19,7 +19,7 @@ LightButtonBox is a customizable button box interface designed for sim racing, a
 
 ## Getting Started
 
-1. **Download the `.exe` file from the [Releases](#)**  
+1. **Download the `.exe` file from the [Releases](https://github.com/mahmoud2344/LBB-LightButtonBox-/releases)**  
    *(No need to install Python or other dependencies)*
 
 2. **Run the app**  
