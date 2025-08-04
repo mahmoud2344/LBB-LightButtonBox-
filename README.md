@@ -81,12 +81,6 @@ These messages should be sent **terminated with `\r\n`** for best compatibility.
 
 ---
 
-## Screenshots
-
-
-
----
-
 Made with Love by [Mahmoud Fakhry]
 ## Licensing
 
