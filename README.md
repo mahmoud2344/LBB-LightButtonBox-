@@ -86,6 +86,6 @@ Made with Love by [Mahmoud Fakhry]
 
 This app is **free for personal use only**. Do not sell, distribute, or modify it without permission.
 
-This project relies on several open-source libraries. While the app itself is closed-source, we acknowledge and respect the open-source work it builds upon.
+This project relies on several open-source libraries. While the app itself is closed-source, i acknowledge and respect the open-source work it builds upon.
 
 A complete list of used libraries and licenses can be found in the LICENSE.txt file.
